@@ -33,11 +33,6 @@ _You **can** combine them_
    1. Item 3a
    1. Item 3b
 
-# Images ===
-
-![GitHub Logo](https://github.com/images/logo.png)
-Format: ![Alt Text](url)
-
 # Links ===
 
 http://github.com - automatic!
