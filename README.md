@@ -3,9 +3,9 @@ A guide to writing markdown - take a look at the source of this file (open it in
 
 # Headers ===
 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+# This is an h1 tag
+## This is an h2 tag
+###### This is an h6 tag
 
 # Emphasis ===
 
@@ -35,7 +35,7 @@ _You **can** combine them_
 
 # Images ===
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://github.com/images/logo.png)
 Format: ![Alt Text](url)
 
 # Links ===
